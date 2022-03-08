@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: sample-webapp-svc
-  namespace: sainadh
+  namespace: flux-system
   labels:
     apps: sample-webapp
 spec:
