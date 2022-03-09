@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: flux-deployment
-  namespace: flux-system
+  namespace: sainadh
   labels:
     app: sample-webapp
 spec:
